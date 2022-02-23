@@ -1,0 +1,264 @@
+﻿{
+  "LanguageName": "Português-Brasil",
+  "LocalizedName": "pt-br",
+  "LocalizationFlagEmoji": "🇧🇷",
+  "FallbackLanguage": null,
+  "Authors": "Force",
+  "Data": {
+    "Welcome": {
+      "Title": "Obrigado por me adicionar! 🤩",
+      "Description": "Meu prefix padrão é `{0}`\nUse `{0}setprefix <prefix>` para alterar.\n\nPara visualizar meus comandos use `{0}help`!"
+    },
+    "Language": {
+      "Success": "O idioma do bot foi alterado para `{0}`",
+      "Fail": "Não há idioma {0}.\nDisponível: {1}",
+      "LanguagesList": "Seleção de idioma",
+      "LanguageDescription": "```{0}setlanguage {1}```\nAutores - {2}\nIntegralidade da tradução - {3}%"
+    },
+    "Status": {
+      "Success": "**O status do bot foi alterado para:** {0} {1}",
+      "Title": "Escolha um status."
+    },
+    "Prefix": {
+      "SetPrefixResponse": "Novo prefixo definido como: `{0}` \nSe você esquecer o prefixo, basta mencionar o bot.",
+      "PrefixIsActual": "`{0}` já é meu prefixo neste servidor!"
+    },
+    "Avatar": {
+      "DownloadAvatar": "\nClique [aqui]({0}) para baixar a imagem!",
+      "DownloadGuildAvatar": "Este usuário possui um avatar personalizado no servidor, clique [aqui]({0}) para baixar o original.\n\n"
+    },
+    "Kick": {
+      "YourSelf": "Você não pode se expulsar do grupo!",
+      "KickBot": "{0}, você não me ama mais? 😢",
+      "HighHieratchy": "Eu não posso expulsar este usuário, meu cargo é menor ou igual ao dele!",
+      "HighHieratchyForYou": "Você não posso expulsar este usuário, seu cargo é menor ou igual ao dele!",
+      "DefaultMotive": "Não especificado.",
+      "UserNotFound": "Não consegui encontrar o usuário informado no grupo...",
+      "Success": "**{0}** foi expulso!\n\n**Motivo:** {1}"
+    },
+    "Ban": {
+      "YourSelf": "Você não pode se banir do grupo!",
+      "BanBot": "{0}, você não me ama mais? 😢💔",
+      "HighHieratchy": "Eu não posso banir este usuário, meu cargo é menor que o dele!",
+      "HighHieratchyForYou": "Você não posso banir este usuário, seu cargo é menor que o dele!",
+      "DefaultMotive": "Não especificado.",
+      "AlreadyBanned": "**{0}#{1}** já está banido!\n\n**Motivo:** {2}",
+      "Success": "**{0}#{1}** foi banido!\n\n**Motivo:** {2}",
+      "SuccessID": "**{0}** foi banido!\n\n**Motivo:** {1}"
+    },
+    "UnBan": {
+      "NoBanned": "<@!{0}> não está banido.",
+      "Success": "<@!{0}> foi desbanido com sucesso."
+    },
+    "Configs": {
+      "Title": "<a:engine:758034388578467961> Configurações - Visão Geral",
+      "Prefix": "**Prefix:** `{0}`",
+      "Language": "**Idioma:** `{0}`",
+      "ChannelCommands": "**Canal de comandos:** {0}",
+      "CommandsDisabled": "Comandos desativados",
+      "CommandsLimitChannel": "Comandos com limite de canal",
+      "CommandsChannelLimitNoSet": "`Canal de comandos não definido.`",
+      "CommandsNoneDisable": "`Nenhum comando foi desativado.`"
+    },
+    "Purgue": {
+      "PurgueCount0": "Informe quantas mensagens irei apagar, exemplo ``{0}limpar 2``",
+      "Success": "Pronto, deletei **{0}** mensagens.",
+      "SuccessAuthor": "Pronto, deletei **{0}** mensagens do **{1}**.",
+      "SuccessOld": "{0}, **{1}** mensagens não puderam ser deletadas por serem enviadas a mais de 15 dias ou estarem fixadas!"
+    },
+    "SlowMode": {
+      "None": "{0}, o modo lento já está desativado.",
+      "Disable": "{0}, modo lento foi desativado.",
+      "Active": "{0}, o chat agora está no modo lento! ({1} segundos)",
+      "NoChanges": "{0}, o chat já está no modo lento escolhido! ({1} segundos)"
+    },
+    "ServerBanner": {
+      "None": "Este servidor não possui um banner."
+    },
+    "ServerIcon": {
+      "None": "Este servidor não possui um icone."
+    },
+    "Commands": {
+      "RequestedBy": "Solicitado por {0}",
+      "Success": "Comando executado",
+      "Fail": "Erro no comando",
+      "UserIsAdmin": "Este usuário é um administrador.",
+      "DEVDisable": "Este comando foi desativado pelo desenvolvedor.",
+      "StaffDisable": "Você não pode utilizar este comando aqui!\nEle foi desativado pela equipe do servidor...",
+      "WaitTime": "🔥 CAAALMA {0} 🔥\n*Aguarde uns segundos para executar outro comando.*",
+      "HelloMention": "Olá, meu prefix é ``{0}``\nUse ``{0}help`` para obter a lista de comandos.",
+
+      "SayMsgCount0": "Quer que eu diga oque? Use `{0}diga mensagem` {1}",
+      "SayMsgBy": "\n\n*✍ Mensagem enviada por {0}*",
+
+      "CommandIsLocked": "O comando `{0}` já está desativado neste servidor.\nUtilize ``{1}unlockcmd {0}`` para ativa-lo.",
+      "CommandIsUnLocked": "O comando `{0}` não está desativado neste servidor.\nUtilize ``{1}lockcmd {0}`` para desativa-lo.",
+      "UnLockCMDSuccess": "O comando `{0}` foi ativado com sucesso!\nUtilize ``{1}lockcmd {0}`` para desativa-lo.",
+      "LockCMDSuccess": "O comando `{0}` foi desativado com sucesso!\nUtilize ``{1}unlockcmd {0}`` para ativa-lo.",
+      "UnLockChatSuccess": "O chat <#{0}> foi desbloqueado com sucesso!\nUtilize ``{1}lock ``<#{0}>  para bloquear.",
+      "LockChatSuccess": "O chat <#{0}> foi bloqueado com sucesso!\nUtilize ``{1}unlock ``<#{0}>  para desbloquear.",
+      "UnLockSuccess": "Chat desbloqueado com sucesso pelo {0}!\nUtilize ``{1}lock`` para bloquear.",
+      "LockSuccess": "Chat bloqueado com sucesso pelo {0}!\nUtilize ``{1}unlock`` para desbloquear.",
+
+      "CoinTails": "<a:pepe_coin:793556390714015775> {0} **Coroa!**",
+      "CoinHeads": "<a:pepe_coin:793556390714015775> {0} **Cara!**",
+      "CoinTailsBet": "<a:pepe_coin:793556390714015775> {0} **Coroa!**, {1} venceu!",
+      "CoinHeadsBet": "<a:pepe_coin:793556390714015775> {0} **Cara!**, você venceu!",
+      "NoPermWriteChannel": "{0}, não tenho permissão para enviar mensagem no canal {1}.",
+      "MessageSendToChat": "{0}, mensagem enviada ao chat {1}!",
+      "ChannelNotFound": "{0}, canal informado não foi encontrado!",
+      "MessageNotFound": "{0}, não encontrei a mensagem informada...",
+      "NoEditOtherMessage": "{0}, não posso editar mensagens de outros usuários...",
+      "MessageEditedSuccess": "{0}, mensagem foi editada com sucesso!",
+      "MessageEditNotFound": "{0}, você não informou qual será a nova mensagem!",
+      "UriInvalid": "{0}, informe uma url válida!",
+      "RandomColor": "Cor escolhida aleatoriamente"
+    },
+    "CommandHandler": {
+      "FailedTitle": "Erro ao executar o comando",
+      "UnmetPrecondition": "Você não tem permissão para executar este comando!",
+      "BadArgCount": "O número de argumentos para o comando está errado.\nAqui está uma dica para usar o comando:",
+      "ParseFailed": "Ocorreu um erro ao tentar analisar o comando.\nAqui está uma dica para usar o comando:\n",
+      "DefaultFailed": "Ocorreu um erro ao tentar executar o comando.\n",
+      "UnknownCommand": "Comando ``{0}`` não encontrado! \nTalvez você queira usar um deles: {1} \nUse o comando ``{2}help`` para uma lista de comandos."
+    },
+    "CommandError": {
+      "NotAGuildErrorMessage": "Este comando só pode ser executado em grupos.",
+      "RequireOwner": "Este comando só pode ser executado pelo proprietário do bot.",
+
+      "RequiredBotKickMembers": "O bot precisa da permissão ``Expulsar membros``.",
+      "RequiredBotBanMembers": "O bot precisa da permissão ``Banir membros``.",
+      "RequiredBotManageMessages": "O bot precisa da permissão ``Gerenciar mensagens``.",
+      "RequiredBotManageChannels": "O bot precisa da permissão ``Gerenciar canais``.",
+      "RequiredBotSendManageMessages": "O bot precisa da permissão ``Enviar mensagens`` e ``Gerenciar mensagens``.",
+
+      "RequiredUserKickMembers": "Você não tem permissão para ``Expulsar membros``.",
+      "RequiredUserBanMembers": "Você precisa da permissão ``Banir membros``.",
+      "RequiredUserManageGuild": "Você precisa da permissão ``Gerenciar servidor``.",
+      "RequiredUserManageMessages": "Você precisa da permissão ``Gerenciar mensagens``.",
+      "RequiredUserManageChannels": "Você precisa da permissão ``Gerenciar canais``."
+    },
+    "Help": {
+      "CommandTitle": "**{0}** - {1}",
+      "Aliases": "Aliases: ",
+
+      "HelpTitle": "Comandos disponíveis",
+      "HelpPrefix": "Para me chamar use o prefixo atual `{0}` ou me mencione ({1})",
+      "HelpDescription": "Ajuda para todos os comandos e categorias",
+      "NotFoundTitle": "Comando não encontrado",
+      "NotFoundDescription": "Comando `{0}` não encontrado.\nUse `{1}help` para ver todos os comandos disponíveis.",
+      "CommandsOfGroup": "Comandos disponíveis no grupo `{0}`",
+      "ByCommand": "Ajuda para o comando: `{0}`",
+
+
+      "help0s": "Mostra informações sobre um comando específico",
+      "help0_0s": "Nome do comando ou grupo",
+      "help1s": "Mostra informações sobre todos os comandos",
+
+      "SetDefaultCMDChat0": "Define o chat padrão para comandos limitados.\n*Comandos limitados são aqueles que poderão ser executados somente neste chat.*",
+      "SetDefaultCMDChat0_0s": "Marque o novo chat de texto, se não definido os comandos poderão ser executados em qualquer chat.",
+
+      "GMSayEmbed0": "Faça eu falar alguma coisa no formato de Embeds.\n*Caso queira um titulo, use | para separar Titulo e Descrição*\n*Ex:* `Aviso | Faça o download do jogo [clicando aqui](https://projectelite.net/baixar).`",
+      "GMSayEmbedRed0": "Faça eu falar alguma coisa no formato de Embeds com a cor vermelha.",
+      "GMSayEmbedGold0": "Faça eu falar alguma coisa no formato de Embeds com a cor gold.",
+      "GMSayEmbedGreen0": "Faça eu falar alguma coisa no formato de Embeds com a cor verde.",
+	  
+	  "SayEmbed0_0s": "Mensagem que eu devo falar.",
+      "SayEmbed0_1s": "(opcional) Chat que eu devo mandar a mensagem.",
+	  
+	  "GMSayEmbed1": "Faça eu falar alguma coisa no formato de Embeds.\nMonte seu embed [aqui](https://embeds.loritta.website/).",
+      "SayEmbed1_0s": "Código json gerado no site.",
+
+      "PurgueChat0": "Limpa o chat do canal de texto atual.",
+      "PurgueChat0_0s": "Quantidade de mensagens para deletar.",
+      "PurgueChat0_1s": "*(opcional) Filtra e exclui apenas as mensagens do autor especificado.*",
+
+      "setprefix0s": "Atribui um novo prefixo para comandos.",
+      "setprefix0_0s": "Novo prefixo.",
+
+      "language0s": "Exibir lista de idiomas disponíveis.",
+      "setlanguage0s": "Atribui uma nova linguagem de resposta do bot.",
+      "setlanguage0_0s": "Idioma",
+
+      "Avatar0": "Mostra o avatar do usuário mencionado ou o seu se ninguém for mencionado.",
+      "Avatar0_0s": "*(opcional) Mencione um usuário.*",
+      "Avatar0_1s": "*(opcional) ID do usuário.*",
+
+      "LockCommand0": "Desativa o comando especificado neste servidor.",
+      "UnLockCommand0": "Ativa o comando especificado neste servidor.",
+      "DisableCommand0_0s": "Comando",
+
+      "LockChat0": "Bloqueia os usuários de falarem no canal de texto informado ou onde o comando foi executado.",
+      "UnLockChat0": "Desbloqueia os usuários para falarem no canal de texto informado ou onde o comando foi executado.",
+      "LockChat0_0s": "(opcional) Chat a ser bloqueado.",
+      "UnLockChat0_0s": "(opcional) Chat a ser desbloqueado.",
+
+      "SlowModeChat0": "Ativa o **modo lento** no chat, aonde o usuário deve esperar X segundos antes de enviar uma nova mensagem.\n*Se você quiser desativar o modo lento, use 0!*",
+      "SlowModeChat0_0s": "Intervalo de tempo em segundos",
+
+      "Say0": "Faça eu falar alguma coisa, você pode editar uma mensagem enviada usando `say edit <link_da_msg> <nova_mensagem>`.",
+      "Say0_0s": "Mensagem que eu devo falar.",
+      "Say0_1s": "(opcional) Chat que eu devo mandar a mensagem.",
+
+      "CoinFlip0": "Jogue uma moeda e veja se irá cair cara ou coroa.",
+      "CoinFlip0_0s": "(opcional) Marque o usuário que você deseja desafiar.",
+
+      "Kick0": "Expulse um usuário do servidor.",
+      "Kick0_0s": "Mencione um usuário (@user).",
+      "Kick0_1s": "(opcional) Motivo da expulsão.",
+      "Kick0_3s": "ID do usuário",
+
+      "Ban0": "Bane um usuário do servidor.",
+      "Ban0_0s": "Mencione um usuário.",
+      "Ban0_1s": "(opcional) Especifique quantos dias de mensagens do usuário devem ser excluídas. *(Máx. 7)*",
+      "Ban0_2s": "(opcional) Motivo do banimento.",
+      "Ban0_3s": "ID do usuário",
+
+      "UnBan0": "Retira o banimento de um usuário.",
+      "UnBan0_0s": "Mencione um usuário.",
+      "UnBan0_1s": "ID do usuário",
+
+      "Configs0": "Exibe uma visão geral das configurações do BOT",
+
+      "LeaveBot0": "Remove o BOT e todas as configurações salva do servidor.",
+      "Invite0": "Link do convite para adicionar o BOT.",
+
+      "ServBanner0": "Exibe o banner do servidor.",
+
+      "ServIcon0": "Exibe o icone do servidor.",
+
+      "Color0": "Veja informações sobre uma cor.",
+      "Color0_0s": "Nome/HEX/Decimal de uma cor.",
+
+      "Ping0": "Exibe a latência do BOT!",
+
+      "SetStatusBot0": "Altera o status do bot.",
+      "SetStatusBot0_0s": "(opcional) 🟢, 🟠 ou 🔴",
+
+      "ActivityListBot0": "Exibe a lista das atividades cadastradas.",
+      "AddActivityBot0": "Criar uma atividade simples para o status do bot, use o comando ``addactivity+`` para iniciar o assistente de criação avançado.",
+      "AddActivityBot0_0s": "Escrita que aparecerá na atividade.\nVariáveis disponíveis:\n``{discordversion}`` - Versão da biblioteca Discord.net.\n``{discordapi}`` - Versão da API em uso.\n``{uptime}`` - Tempo de operação do bot.\n``{version}`` - Versão de compilação do executável.\n``{guildscount}`` - Quantidade de servidor em que o BOT está.",
+      "AddActivityBot0_1s": "Tempo em milissegundos que a atividade ficará em exibição até ser alterada para a próxima.",
+      "AddActivityBot1": "Assistente de criação de atividades, execute o comando e responda oque for solicitado.",
+      "ActivityRemoveBot0": "Remova uma atividade da lista, use o comando ``activitys`` para obter a lista.",
+      "RemoveActivityBot0_0s": "ID da atividade."
+    },
+    "Groups": {
+      "": "Outros",
+      "devgroup": "Desenvolvedor",
+      "botconfig": "Configurações",
+      "utils": "Utilitários",
+      "moderation": "Moderação",
+      "fun": "Diversão",
+      "misc": "Diversos"
+    },
+    "Other": {
+      "None": "Nenhum",
+      "Unk": "Desconhecido",
+      "Version": "Versão: {0} - by Force#0010",
+      "True": "Sim",
+      "False": "Não",
+      "Message": "Mensagem"
+    }
+  }
+}

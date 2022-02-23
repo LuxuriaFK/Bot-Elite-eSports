@@ -1,0 +1,106 @@
+C:\Users\User\Desktop\BOTDiscord - Luxuria\Src\bin\Release\net5.0\win-x64\LocalizationSTR\pt-br.json
+C:\Users\User\Desktop\BOTDiscord - Luxuria\Src\bin\Release\net5.0\win-x64\Elite Sports.exe
+C:\Users\User\Desktop\BOTDiscord - Luxuria\Src\bin\Release\net5.0\win-x64\Elite Sports.deps.json
+C:\Users\User\Desktop\BOTDiscord - Luxuria\Src\bin\Release\net5.0\win-x64\Elite Sports.runtimeconfig.json
+C:\Users\User\Desktop\BOTDiscord - Luxuria\Src\bin\Release\net5.0\win-x64\Elite Sports.runtimeconfig.dev.json
+C:\Users\User\Desktop\BOTDiscord - Luxuria\Src\bin\Release\net5.0\win-x64\Elite Sports.dll
+C:\Users\User\Desktop\BOTDiscord - Luxuria\Src\bin\Release\net5.0\win-x64\ref\Elite Sports.dll
+C:\Users\User\Desktop\BOTDiscord - Luxuria\Src\bin\Release\net5.0\win-x64\Elite Sports.pdb
+C:\Users\User\Desktop\BOTDiscord - Luxuria\Src\bin\Release\net5.0\win-x64\Discord.Net.Commands.dll
+C:\Users\User\Desktop\BOTDiscord - Luxuria\Src\bin\Release\net5.0\win-x64\Discord.Net.Core.dll
+C:\Users\User\Desktop\BOTDiscord - Luxuria\Src\bin\Release\net5.0\win-x64\Discord.Net.Rest.dll
+C:\Users\User\Desktop\BOTDiscord - Luxuria\Src\bin\Release\net5.0\win-x64\Discord.Net.Webhook.dll
+C:\Users\User\Desktop\BOTDiscord - Luxuria\Src\bin\Release\net5.0\win-x64\Discord.Net.WebSocket.dll
+C:\Users\User\Desktop\BOTDiscord - Luxuria\Src\bin\Release\net5.0\win-x64\Humanizer.dll
+C:\Users\User\Desktop\BOTDiscord - Luxuria\Src\bin\Release\net5.0\win-x64\Microsoft.Data.Sqlite.dll
+C:\Users\User\Desktop\BOTDiscord - Luxuria\Src\bin\Release\net5.0\win-x64\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\User\Desktop\BOTDiscord - Luxuria\Src\bin\Release\net5.0\win-x64\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\BOTDiscord - Luxuria\Src\bin\Release\net5.0\win-x64\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\BOTDiscord - Luxuria\Src\bin\Release\net5.0\win-x64\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Desktop\BOTDiscord - Luxuria\Src\bin\Release\net5.0\win-x64\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\BOTDiscord - Luxuria\Src\bin\Release\net5.0\win-x64\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\User\Desktop\BOTDiscord - Luxuria\Src\bin\Release\net5.0\win-x64\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Desktop\BOTDiscord - Luxuria\Src\bin\Release\net5.0\win-x64\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Desktop\BOTDiscord - Luxuria\Src\bin\Release\net5.0\win-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Desktop\BOTDiscord - Luxuria\Src\bin\Release\net5.0\win-x64\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\BOTDiscord - Luxuria\Src\bin\Release\net5.0\win-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\BOTDiscord - Luxuria\Src\bin\Release\net5.0\win-x64\Microsoft.Extensions.DependencyModel.dll
+C:\Users\User\Desktop\BOTDiscord - Luxuria\Src\bin\Release\net5.0\win-x64\Microsoft.Extensions.Logging.dll
+C:\Users\User\Desktop\BOTDiscord - Luxuria\Src\bin\Release\net5.0\win-x64\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\BOTDiscord - Luxuria\Src\bin\Release\net5.0\win-x64\Microsoft.Extensions.Options.dll
+C:\Users\User\Desktop\BOTDiscord - Luxuria\Src\bin\Release\net5.0\win-x64\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Desktop\BOTDiscord - Luxuria\Src\bin\Release\net5.0\win-x64\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\BOTDiscord - Luxuria\Src\bin\Release\net5.0\win-x64\Newtonsoft.Json.dll
+C:\Users\User\Desktop\BOTDiscord - Luxuria\Src\bin\Release\net5.0\win-x64\SQLitePCLRaw.batteries_v2.dll
+C:\Users\User\Desktop\BOTDiscord - Luxuria\Src\bin\Release\net5.0\win-x64\SQLitePCLRaw.nativelibrary.dll
+C:\Users\User\Desktop\BOTDiscord - Luxuria\Src\bin\Release\net5.0\win-x64\SQLitePCLRaw.core.dll
+C:\Users\User\Desktop\BOTDiscord - Luxuria\Src\bin\Release\net5.0\win-x64\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\User\Desktop\BOTDiscord - Luxuria\Src\bin\Release\net5.0\win-x64\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\BOTDiscord - Luxuria\Src\bin\Release\net5.0\win-x64\System.Drawing.Common.dll
+C:\Users\User\Desktop\BOTDiscord - Luxuria\Src\bin\Release\net5.0\win-x64\System.Interactive.Async.dll
+C:\Users\User\Desktop\BOTDiscord - Luxuria\Src\bin\Release\net5.0\win-x64\System.Linq.Async.dll
+C:\Users\User\Desktop\BOTDiscord - Luxuria\Src\bin\Release\net5.0\win-x64\Tyrrrz.Extensions.dll
+C:\Users\User\Desktop\BOTDiscord - Luxuria\Src\bin\Release\net5.0\win-x64\pt\Humanizer.resources.dll
+C:\Users\User\Desktop\BOTDiscord - Luxuria\Src\bin\Release\net5.0\win-x64\e_sqlite3.dll
+C:\Users\User\Desktop\BOTDiscord - Luxuria\Src\obj\Release\net5.0\win-x64\Elite Sports.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\BOTDiscord - Luxuria\Src\obj\Release\net5.0\win-x64\Elite Sports.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\BOTDiscord - Luxuria\Src\obj\Release\net5.0\win-x64\Elite Sports.AssemblyInfo.cs
+C:\Users\User\Desktop\BOTDiscord - Luxuria\Src\obj\Release\net5.0\win-x64\Elite Sports.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\BOTDiscord - Luxuria\Src\obj\Release\net5.0\win-x64\Elite Sports.csproj.CopyComplete
+C:\Users\User\Desktop\BOTDiscord - Luxuria\Src\obj\Release\net5.0\win-x64\Elite Sports.dll
+C:\Users\User\Desktop\BOTDiscord - Luxuria\Src\obj\Release\net5.0\win-x64\ref\Elite Sports.dll
+C:\Users\User\Desktop\BOTDiscord - Luxuria\Src\obj\Release\net5.0\win-x64\Elite Sports.pdb
+C:\Users\User\Desktop\BOTDiscord - Luxuria\Src\obj\Release\net5.0\win-x64\Elite Sports.genruntimeconfig.cache
+C:\Users\User\Desktop\Avix\Bots Discord\Bot Elite eSports\Src\bin\Release\net5.0\win-x64\LocalizationSTR\pt-br.json
+C:\Users\User\Desktop\Avix\Bots Discord\Bot Elite eSports\Src\bin\Release\net5.0\win-x64\Elite Sports.exe
+C:\Users\User\Desktop\Avix\Bots Discord\Bot Elite eSports\Src\bin\Release\net5.0\win-x64\Elite Sports.deps.json
+C:\Users\User\Desktop\Avix\Bots Discord\Bot Elite eSports\Src\bin\Release\net5.0\win-x64\Elite Sports.runtimeconfig.json
+C:\Users\User\Desktop\Avix\Bots Discord\Bot Elite eSports\Src\bin\Release\net5.0\win-x64\Elite Sports.runtimeconfig.dev.json
+C:\Users\User\Desktop\Avix\Bots Discord\Bot Elite eSports\Src\bin\Release\net5.0\win-x64\Elite Sports.dll
+C:\Users\User\Desktop\Avix\Bots Discord\Bot Elite eSports\Src\bin\Release\net5.0\win-x64\ref\Elite Sports.dll
+C:\Users\User\Desktop\Avix\Bots Discord\Bot Elite eSports\Src\bin\Release\net5.0\win-x64\Elite Sports.pdb
+C:\Users\User\Desktop\Avix\Bots Discord\Bot Elite eSports\Src\bin\Release\net5.0\win-x64\Discord.Net.Commands.dll
+C:\Users\User\Desktop\Avix\Bots Discord\Bot Elite eSports\Src\bin\Release\net5.0\win-x64\Discord.Net.Core.dll
+C:\Users\User\Desktop\Avix\Bots Discord\Bot Elite eSports\Src\bin\Release\net5.0\win-x64\Discord.Net.Rest.dll
+C:\Users\User\Desktop\Avix\Bots Discord\Bot Elite eSports\Src\bin\Release\net5.0\win-x64\Discord.Net.Webhook.dll
+C:\Users\User\Desktop\Avix\Bots Discord\Bot Elite eSports\Src\bin\Release\net5.0\win-x64\Discord.Net.WebSocket.dll
+C:\Users\User\Desktop\Avix\Bots Discord\Bot Elite eSports\Src\bin\Release\net5.0\win-x64\Humanizer.dll
+C:\Users\User\Desktop\Avix\Bots Discord\Bot Elite eSports\Src\bin\Release\net5.0\win-x64\Microsoft.Data.Sqlite.dll
+C:\Users\User\Desktop\Avix\Bots Discord\Bot Elite eSports\Src\bin\Release\net5.0\win-x64\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\User\Desktop\Avix\Bots Discord\Bot Elite eSports\Src\bin\Release\net5.0\win-x64\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\Avix\Bots Discord\Bot Elite eSports\Src\bin\Release\net5.0\win-x64\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\Avix\Bots Discord\Bot Elite eSports\Src\bin\Release\net5.0\win-x64\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Desktop\Avix\Bots Discord\Bot Elite eSports\Src\bin\Release\net5.0\win-x64\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\Avix\Bots Discord\Bot Elite eSports\Src\bin\Release\net5.0\win-x64\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\User\Desktop\Avix\Bots Discord\Bot Elite eSports\Src\bin\Release\net5.0\win-x64\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Desktop\Avix\Bots Discord\Bot Elite eSports\Src\bin\Release\net5.0\win-x64\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Desktop\Avix\Bots Discord\Bot Elite eSports\Src\bin\Release\net5.0\win-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Desktop\Avix\Bots Discord\Bot Elite eSports\Src\bin\Release\net5.0\win-x64\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\Avix\Bots Discord\Bot Elite eSports\Src\bin\Release\net5.0\win-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\Avix\Bots Discord\Bot Elite eSports\Src\bin\Release\net5.0\win-x64\Microsoft.Extensions.DependencyModel.dll
+C:\Users\User\Desktop\Avix\Bots Discord\Bot Elite eSports\Src\bin\Release\net5.0\win-x64\Microsoft.Extensions.Logging.dll
+C:\Users\User\Desktop\Avix\Bots Discord\Bot Elite eSports\Src\bin\Release\net5.0\win-x64\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\Avix\Bots Discord\Bot Elite eSports\Src\bin\Release\net5.0\win-x64\Microsoft.Extensions.Options.dll
+C:\Users\User\Desktop\Avix\Bots Discord\Bot Elite eSports\Src\bin\Release\net5.0\win-x64\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Desktop\Avix\Bots Discord\Bot Elite eSports\Src\bin\Release\net5.0\win-x64\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\Avix\Bots Discord\Bot Elite eSports\Src\bin\Release\net5.0\win-x64\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Avix\Bots Discord\Bot Elite eSports\Src\bin\Release\net5.0\win-x64\SQLitePCLRaw.batteries_v2.dll
+C:\Users\User\Desktop\Avix\Bots Discord\Bot Elite eSports\Src\bin\Release\net5.0\win-x64\SQLitePCLRaw.nativelibrary.dll
+C:\Users\User\Desktop\Avix\Bots Discord\Bot Elite eSports\Src\bin\Release\net5.0\win-x64\SQLitePCLRaw.core.dll
+C:\Users\User\Desktop\Avix\Bots Discord\Bot Elite eSports\Src\bin\Release\net5.0\win-x64\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\User\Desktop\Avix\Bots Discord\Bot Elite eSports\Src\bin\Release\net5.0\win-x64\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\Avix\Bots Discord\Bot Elite eSports\Src\bin\Release\net5.0\win-x64\System.Drawing.Common.dll
+C:\Users\User\Desktop\Avix\Bots Discord\Bot Elite eSports\Src\bin\Release\net5.0\win-x64\System.Interactive.Async.dll
+C:\Users\User\Desktop\Avix\Bots Discord\Bot Elite eSports\Src\bin\Release\net5.0\win-x64\System.Linq.Async.dll
+C:\Users\User\Desktop\Avix\Bots Discord\Bot Elite eSports\Src\bin\Release\net5.0\win-x64\Tyrrrz.Extensions.dll
+C:\Users\User\Desktop\Avix\Bots Discord\Bot Elite eSports\Src\bin\Release\net5.0\win-x64\pt\Humanizer.resources.dll
+C:\Users\User\Desktop\Avix\Bots Discord\Bot Elite eSports\Src\bin\Release\net5.0\win-x64\e_sqlite3.dll
+C:\Users\User\Desktop\Avix\Bots Discord\Bot Elite eSports\Src\obj\Release\net5.0\win-x64\Elite Sports.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Avix\Bots Discord\Bot Elite eSports\Src\obj\Release\net5.0\win-x64\Elite Sports.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Avix\Bots Discord\Bot Elite eSports\Src\obj\Release\net5.0\win-x64\Elite Sports.AssemblyInfo.cs
+C:\Users\User\Desktop\Avix\Bots Discord\Bot Elite eSports\Src\obj\Release\net5.0\win-x64\Elite Sports.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Avix\Bots Discord\Bot Elite eSports\Src\obj\Release\net5.0\win-x64\Elite Sports.csproj.CopyComplete
+C:\Users\User\Desktop\Avix\Bots Discord\Bot Elite eSports\Src\obj\Release\net5.0\win-x64\Elite Sports.dll
+C:\Users\User\Desktop\Avix\Bots Discord\Bot Elite eSports\Src\obj\Release\net5.0\win-x64\ref\Elite Sports.dll
+C:\Users\User\Desktop\Avix\Bots Discord\Bot Elite eSports\Src\obj\Release\net5.0\win-x64\Elite Sports.pdb
+C:\Users\User\Desktop\Avix\Bots Discord\Bot Elite eSports\Src\obj\Release\net5.0\win-x64\Elite Sports.genruntimeconfig.cache
